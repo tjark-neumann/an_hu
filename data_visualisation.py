@@ -1,3 +1,5 @@
+##for reproduction, run in Jupyter
+
 import os, csv
 import numpy as np
 import pandas as pd
